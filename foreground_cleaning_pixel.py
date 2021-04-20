@@ -1,6 +1,5 @@
 #!/home/rmvd2/venv/bin/python3
 
-
 #=============================================================================#
 #                                                                             #
 # NAME:     foreground_cleaning_pixel.py                                      #
