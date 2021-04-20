@@ -1,4 +1,17 @@
 #!/home/rmvd2/venv/bin/python3
+
+#=============================================================================#
+#                                                                             #
+# NAME:     plot_cleaned_map.py.                                              #
+#                                                                             #
+# PURPOSE:  Plot results of Bayesian parametric foreground removal            #
+#                                                                             #
+# AUTHOR:   April-2021 rmvd2                                                  #
+#                                                                             #
+# CITE:     Please cite the relevant paper (de Belsunce et al. in prep.)      #
+#=============================================================================#
+
+
 import healpy as hp
 import numpy as np
 import matplotlib.pyplot as plt
