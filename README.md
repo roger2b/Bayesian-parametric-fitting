@@ -9,4 +9,4 @@ plot_cleaned_map.py          - code to read outpouts from foreground_cleaning_pi
 This repository performs the computations pixel-by-pixel. 
 
 ## citation
-Please cite de Belsunce et al. (2021) [arXiv](https://arxiv.org/abs/2205.13968) if you use this or parts of this code
+Please cite de Belsunce et al. (2021) [(arXiv)](https://arxiv.org/abs/2205.13968) if you use this or parts of this code
